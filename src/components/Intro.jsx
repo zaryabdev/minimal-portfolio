@@ -14,9 +14,9 @@ function Intro() {
                 myself and clients to showcase on my Portfolio. All coding
                 projects are built from the ground up, from planning and
                 designing all the way to solving real-life problems with code.
-                <br />I am palanning to record my journey of becoming the
-                world's gratest Software Engineer. I will upload that content on
-                my YouTube channel{" "}
+                <br />I am planning to record my journey of becoming the world's
+                gratest Software Engineer. I will upload that content on my
+                YouTube channel{" "}
                 <a
                     href="https://www.youtube.com/channel/UCz5Ki4bZ2-sDDNux-X4ODjA"
                     target="_blank"

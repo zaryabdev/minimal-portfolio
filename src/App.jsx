@@ -23,8 +23,10 @@ function App() {
     useEffect(() => {
         if (theme === "dark") {
             document.documentElement.classList.add("dark");
+            document.title = "Zaryab's Portfolio";
         } else {
             document.documentElement.classList.remove("dark");
+            document.title = "Xaryab's Portfolio";
         }
     }, [theme]);
 
@@ -73,7 +75,7 @@ function App() {
             </button>
             <div className="bg-white dark:bg-stone-900 text-stone-900 dark:text-stone-300 min-h-screen font-inter">
                 <div className="max-w-5xl w-11/12 mx-auto">
-                    <Intro />
+                    <Intro theme={theme} />
                     <Portfolio />
                     <Timeline />
                     {/* <Contact /> */}

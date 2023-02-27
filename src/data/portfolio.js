@@ -1,20 +1,32 @@
 export default [
-   {
-      title: 'Terminal Website',
-      imgUrl: '/assets/terminal-website.jpg',
-      stack: ['HTML', 'CSS', 'JavaScript'],
-      link: 'https://fkcodes.com',
-   },
-   {
-      title: 'Developer Portfolio',
-      imgUrl: '/assets/dev-portfolio.jpg',
-      stack: ['React', 'Tailwind', 'Vite'],
-      link: 'https://thehackershideout.com',
-   },
-   {
-      title: 'AI Nerf Gun',
-      imgUrl: '/assets/ai-nerf-gun.jpg',
-      stack: ['Python', 'C++', 'Robotics'],
-      link: 'https://youtu.be/A8eegxL82PI',
-   },
-]
+    {
+        title: "Imprimer",
+        imgUrl: "/assets/imprimer-concept.png",
+        stack: ["Electron", "SQLite", "NodeJs"],
+        link: "#",
+    },
+    {
+        title: "Javascript Calculator",
+        imgUrl: "/assets/js-calculator-app.webp",
+        stack: ["Javascript", "CSS"],
+        link: "#",
+    },
+    {
+        title: "Multi-select React-dnd",
+        imgUrl: "/assets/react-multi-select.png",
+        stack: ["React", "React-dnd", "Vite"],
+        link: "#",
+    },
+    {
+        title: "React Calculator",
+        imgUrl: "/assets/react-calculator-app.webp",
+        stack: ["React", "Javascript", "CSS"],
+        link: "#",
+    },
+    {
+        title: "Travelmart",
+        imgUrl: "/assets/travelmart.png",
+        stack: ["React", "Javascript", "Bootstrap"],
+        link: "#",
+    },
+];
